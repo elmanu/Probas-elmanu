@@ -1,0 +1,4 @@
+README
+outro.txt
+proba
+texto.txt
